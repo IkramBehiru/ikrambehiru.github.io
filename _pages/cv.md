@@ -58,7 +58,7 @@ Skills
   
 Service and leadership
 ======
-* Serve as a mentor for Nedamco Africa Acadamy cloud Technology students.
+* Serve as a mentor for Nedamco Africa Academy cloud Technology students.
 * Serve as Community Training Assistant.
 * Volunteer at Ethiopian Minstry of peace.
 * Volunteer at Examplary Youth Association.
