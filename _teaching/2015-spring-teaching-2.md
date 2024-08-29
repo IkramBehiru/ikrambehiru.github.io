@@ -11,11 +11,3 @@ location: "Addis Ababa, Ethiopia"
 
 Supervise the National ID registration program and train the registration officers.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
