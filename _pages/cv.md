@@ -17,7 +17,7 @@ Education
 
 * M.S.C in Computer Engineering, Addis Ababa University (AAiT), 2025 (expected)
 * B.S.C in Electromechanical Engineering, Hawassa University, 2021
-* B.S.C in Computer Science, Hawassa University, 2020(expected)
+* B.S.C in Computer Science, Hawassa University, 2020
 
 
 
