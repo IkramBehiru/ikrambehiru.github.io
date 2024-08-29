@@ -1,5 +1,5 @@
 ---
-title: "Nation ID Supervisor"
+title: "Nation ID Registration Supervisor"
 collection: teaching
 type: "Training"
 permalink: /teaching/2015-spring-teaching-1
