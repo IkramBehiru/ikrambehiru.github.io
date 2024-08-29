@@ -31,12 +31,12 @@ Work experience
 
 
 * 2022 - 2024: Cloud Consultant
-  * Nedamco Africa Cloud Innitiative plc.
+  * Nedamco Africa Cloud Initiative plc.
   * Duties included: provide and configure cloud services  specially AWS and Microsoft Azure and infrastractur component.
   
 
 * 2023 -2024: Community Training Assistant
-  * Nedamco Africa Cloud Innitiative plc. with colaboration Azubi africa and Fast lane training  institute.
+  * Nedamco Africa Cloud Initiative plc  colaboration with Azubi africa and Fast lane training  institute.
   * Duties included: Facilitate trainings for students.
 
 
@@ -59,7 +59,7 @@ Skills
   
 Service and leadership
 ======
-* Serve as a mentor for Nedamco Africa Acaday cloud Technology students.
+* Serve as a mentor for Nedamco Africa Acadamy cloud Technology students.
 * Serve as Community Training Assistant.
 * Volunteer at Ethiopian Minstry of peace.
 * Volunteer at Examplary Youth Association.
