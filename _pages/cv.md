@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
- [Get Full CV Here](https://drive.google.com/file/d/1EResH2T19XlumPTMIn_zvt9B8khD_eTo/view?usp=drive_link) 
+
 
 Education
 ======
@@ -22,7 +21,8 @@ Education
 Work experience
 ======
 *  2024 : Senior System Engineer
-  * Edge Communication Technologies Plc.
+      * Edge Communication Technologies Plc.
+
  
 * 2022 - 2024: Software Developer
   * AFRICOM Technologies Plc.
